@@ -2,7 +2,7 @@
 if(isset($_GET["id"]))
 {
 	$PID=$_GET["id"];
-    $db=new mysqli("localhost","gsvproject","gsvpsg123@123","pro1",3308);
+    $db=new mysqli("localhost","root","","project");
 {
 	echo('Connection error' .mysqli_connect_error());
 }

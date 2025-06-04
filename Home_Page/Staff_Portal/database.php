@@ -1,3 +1,3 @@
 <?php
-    $db = new mysqli("localhost","username","password","databasename",portnumber);
+    $db = new mysqli("localhost","root","","project");
 ?>
