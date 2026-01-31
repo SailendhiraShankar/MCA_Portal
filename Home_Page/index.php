@@ -893,7 +893,7 @@ footer {
                         <i class="fas fa-user-plus"></i>
                         <span>New User Registration</span>
                     </a>
-                    <a href="about.php" class="secondary-btn">
+                    <a href="#section3" class="secondary-btn">
                         <i class="fas fa-info-circle"></i>
                         <span>About Us</span>
                     </a>
